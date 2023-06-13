@@ -1,0 +1,6 @@
+2023-06-13 13:08:24.335 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome=114 (valid until 2023-06-13 20:50:41)
+2023-06-13 13:08:24.340 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome114=114.0.5735.90 (valid until 2023-06-13 20:50:41)
+2023-06-13 13:08:24.340 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 114.0.5735.90 (since Google Chrome 114 is installed in your machine)
+2023-06-13 13:08:24.351 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 114.0.5735.90 found in cache
+2023-06-13 13:08:24.353 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/cnstantin/.m2/repository/webdriver/chromedriver/mac64/114.0.5735.90/chromedriver
+2023-06-13 13:08:46.665 [main] INFO  Pages.BasePage - Check element with xpath exists: //h1[contains(text(), 'Your cart')]
